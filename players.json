@@ -1,0 +1,1724 @@
+[
+  {
+    "id": "aakash-chopra",
+    "name": "Aakash Chopra",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "aaron-finch",
+    "name": "Aaron Finch",
+    "country": "Australia",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "aaron-hardie",
+    "name": "Aaron Hardie",
+    "country": "Australia",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "ab-de-villiers",
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "abdul-samad",
+    "name": "Abdul Samad",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "abhimanyu-easwaran",
+    "name": "Abhimanyu Easwaran",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "abhinav-manohar",
+    "name": "Abhinav Manohar",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "abhishek-jhunjhunwala",
+    "name": "Abhishek Jhunjhunwala",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "abhishek-nayar",
+    "name": "Abhishek Nayar",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "abhishek-porel",
+    "name": "Abhishek Porel",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "abhishek-sharma",
+    "name": "Abhishek Sharma",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "adam-gilchrist",
+    "name": "Adam Gilchrist",
+    "country": "Australia",
+    "role": "wicket-keeper",
+    "isInternational": true
+  },
+  {
+    "id": "adam-milne",
+    "name": "Adam Milne",
+    "country": "New Zealand",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "adam-zampa",
+    "name": "Adam Zampa",
+    "country": "Australia",
+    "role": "spin-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "aditya-tare",
+    "name": "Aditya Tare",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "aidan-markram",
+    "name": "Aidan Markram",
+    "country": "South Africa",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "ajinkya-rahane",
+    "name": "Ajinkya Rahane",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "ajit-agarkar",
+    "name": "Ajit Agarkar",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "albie-morkel",
+    "name": "Albie Morkel",
+    "country": "South Africa",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "alex-haley",
+    "name": "Alex Hales",
+    "country": "England",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "alzarri-joseph",
+    "name": "Alzarri Joseph",
+    "country": "West Indies",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "ambati-rayudu",
+    "name": "Ambati Rayudu",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "amit-mishra",
+    "name": "Amit Mishra",
+    "country": "India",
+    "role": "spin-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "andre-russell",
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "andrew-tye",
+    "name": "Andrew Tye",
+    "country": "Australia",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "angkrish-raghuvanshi",
+    "name": "Angkrish Raghuvanshi",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "aniket-choudhary",
+    "name": "Aniket Choudhary",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "anrich-nortje",
+    "name": "Anrich Nortje",
+    "country": "South Africa",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "anuj-rawat",
+    "name": "Anuj Rawat",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "anukul-roy",
+    "name": "Anukul Roy",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "arshdeep-singh",
+    "name": "Arshdeep Singh",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "ashok-dinda",
+    "name": "Ashok Dinda",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "ashutosh-sharma",
+    "name": "Ashutosh Sharma",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "avesh-khan",
+    "name": "Avesh Khan",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "axar-patel",
+    "name": "Axar Patel",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "azhar-mahmood",
+    "name": "Azhar Mahmood",
+    "country": "Pakistan",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "b-akhil",
+    "name": "Balachandra Akhil",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "b-indrajith",
+    "name": "Baba Indrajith",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "b-sai-sudharsan",
+    "name": "Sai Sudharsan",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "baba-aparajith",
+    "name": "Baba Aparajith",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "barinder-sran",
+    "name": "Barinder Sran",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "ben-cutting",
+    "name": "Ben Cutting",
+    "country": "Australia",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "ben-dwarshuis",
+    "name": "Ben Dwarshuis",
+    "country": "Australia",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "ben-mcdermott",
+    "name": "Ben McDermott",
+    "country": "Australia",
+    "role": "wicket-keeper",
+    "isInternational": true
+  },
+  {
+    "id": "ben-stokes",
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "bhuvneshwar-kumar",
+    "name": "Bhuvneshwar Kumar",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "billy-stanlake",
+    "name": "Billy Stanlake",
+    "country": "Australia",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "bipul-sharma",
+    "name": "Bipul Sharma",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "brad-haddin",
+    "name": "Brad Haddin",
+    "country": "Australia",
+    "role": "wicket-keeper",
+    "isInternational": true
+  },
+  {
+    "id": "brad-hodge",
+    "name": "Brad Hodge",
+    "country": "Australia",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "brad-hogg",
+    "name": "Brad Hogg",
+    "country": "Australia",
+    "role": "spin-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "brendon-mccullum",
+    "name": "Brendon McCullum",
+    "country": "New Zealand",
+    "role": "wicket-keeper",
+    "isInternational": true
+  },
+  {
+    "id": "brett-lee",
+    "name": "Brett Lee",
+    "country": "Australia",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "brydon-carse",
+    "name": "Brydon Carse",
+    "country": "England",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "cameron-green",
+    "name": "Cameron Green",
+    "country": "Australia",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "cameron-white",
+    "name": "Cameron White",
+    "country": "Australia",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "celeste-morgans",
+    "name": "Celeste Morgans",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "cheteshwar-pujara",
+    "name": "Cheteshwar Pujara",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "chetan-sakariya",
+    "name": "Chetan Sakariya",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "chris-foley",
+    "name": "Chris Foley",
+    "country": "Australia",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "chris-gayle",
+    "name": "Chris Gayle",
+    "country": "West Indies",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "chris-jordan",
+    "name": "Chris Jordan",
+    "country": "England",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "chris-morris",
+    "name": "Chris Morris",
+    "country": "South Africa",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "chris-woakes",
+    "name": "Chris Woakes",
+    "country": "England",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "corey-anderson",
+    "name": "Corey Anderson",
+    "country": "New Zealand",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "dale-steyn",
+    "name": "Dale Steyn",
+    "country": "South Africa",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "daniel-sams",
+    "name": "Daniel Sams",
+    "country": "Australia",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "daniel-vettori",
+    "name": "Daniel Vettori",
+    "country": "New Zealand",
+    "role": "spin-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "darshan-nalkande",
+    "name": "Darshan Nalkande",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "david-miller",
+    "name": "David Miller",
+    "country": "South Africa",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "david-hussey",
+    "name": "David Hussey",
+    "country": "Australia",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "david-wiese",
+    "name": "David Wiese",
+    "country": "Namibia",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "david-warner",
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "deepak-chahar",
+    "name": "Deepak Chahar",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "deepak-hooda",
+    "name": "Deepak Hooda",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "devdutt-padikkal",
+    "name": "Devdutt Padikkal",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "dhruv-jurel",
+    "name": "Dhruv Jurel",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "dinesh-karthik",
+    "name": "Dinesh Karthik",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "dwayne-bravo",
+    "name": "Dwayne Bravo",
+    "country": "West Indies",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "dwayne-smith",
+    "name": "Dwayne Smith",
+    "country": "West Indies",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "eoin-morgan",
+    "name": "Eoin Morgan",
+    "country": "England",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "evin-lewis",
+    "name": "Evin Lewis",
+    "country": "West Indies",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "faf-du-plessis",
+    "name": "Faf du Plessis",
+    "country": "South Africa",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "farveez-maharoof",
+    "name": "Farveez Maharoof",
+    "country": "Sri Lanka",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "fazalhaq-farooqi",
+    "name": "Fazalhaq Farooqi",
+    "country": "Afghanistan",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "gautam-gambhir",
+    "name": "Gautam Gambhir",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "glenn-maxwell",
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "glenn-mcgrath",
+    "name": "Glenn McGrath",
+    "country": "Australia",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "gurkeerat-singh-mann",
+    "name": "Gurkeerat Singh Mann",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "gus-atkinson",
+    "name": "Gus Atkinson",
+    "country": "England",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "hardik-pandya",
+    "name": "Hardik Pandya",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "harbhajan-singh",
+    "name": "Harbhajan Singh",
+    "country": "India",
+    "role": "spin-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "harshal-patel",
+    "name": "Harshal Patel",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "harshit-rana",
+    "name": "Harshit Rana",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "harry-brook",
+    "name": "Harry Brook",
+    "country": "England",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "heinrich-klaasen",
+    "name": "Heinrich Klaasen",
+    "country": "South Africa",
+    "role": "wicket-keeper",
+    "isInternational": true
+  },
+  {
+    "id": "herschelle-gibbs",
+    "name": "Herschelle Gibbs",
+    "country": "South Africa",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "ishaan-kishan",
+    "name": "Ishan Kishan",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "ishant-sharma",
+    "name": "Ishant Sharma",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "imran-tahir",
+    "name": "Imran Tahir",
+    "country": "South Africa",
+    "role": "spin-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "jacques-kallis",
+    "name": "Jacques Kallis",
+    "country": "South Africa",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "jake-fraser-mcgurk",
+    "name": "Jake Fraser-McGurk",
+    "country": "Australia",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "james-faulkner",
+    "name": "James Faulkner",
+    "country": "Australia",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "jason-holder",
+    "name": "Jason Holder",
+    "country": "West Indies",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "jason-roy",
+    "name": "Jason Roy",
+    "country": "England",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "jasprit-bumrah",
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "jaydev-unadkat",
+    "name": "Jaydev Unadkat",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "jitesh-sharma",
+    "name": "Jitesh Sharma",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "jofra-archer",
+    "name": "Jofra Archer",
+    "country": "England",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "johannes-botha",
+    "name": "Johan Botha",
+    "country": "South Africa",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "jos-buttler",
+    "name": "Jos Buttler",
+    "country": "England",
+    "role": "wicket-keeper",
+    "isInternational": true
+  },
+  {
+    "id": "k-gowtham",
+    "name": "Krishnappa Gowtham",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "k-l-rahul",
+    "name": "KL Rahul",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": true
+  },
+  {
+    "id": "kagiso-rabada",
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "kamlesh-nagerkoti",
+    "name": "Kamlesh Nagerkoti",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "kane-williamson",
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "karan-sharma",
+    "name": "Karan Sharma",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "karun-nair",
+    "name": "Karun Nair",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "kedar-jadhav",
+    "name": "Kedar Jadhav",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "kevin-pietersen",
+    "name": "Kevin Pietersen",
+    "country": "England",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "khaleel-ahmed",
+    "name": "Khaleel Ahmed",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "krunal-pandya",
+    "name": "Krunal Pandya",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "kumar-sangakkara",
+    "name": "Kumar Sangakkara",
+    "country": "Sri Lanka",
+    "role": "wicket-keeper",
+    "isInternational": true
+  },
+  {
+    "id": "lance-klusener",
+    "name": "Lance Klusener",
+    "country": "South Africa",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "lasith-malinga",
+    "name": "Lasith Malinga",
+    "country": "Sri Lanka",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "liam-livingstone",
+    "name": "Liam Livingstone",
+    "country": "England",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "litton-das",
+    "name": "Litton Das",
+    "country": "Bangladesh",
+    "role": "wicket-keeper",
+    "isInternational": true
+  },
+  {
+    "id": "loki-ferguson",
+    "name": "Lockie Ferguson",
+    "country": "New Zealand",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "lungi-ngidi",
+    "name": "Lungi Ngidi",
+    "country": "South Africa",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "m-s-dhoni",
+    "name": "MS Dhoni",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "m-shahrukh-khan",
+    "name": "Shahrukh Khan",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "m-theekshana",
+    "name": "Maheesh Theekshana",
+    "country": "Sri Lanka",
+    "role": "spin-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "maheesh-pathirana",
+    "name": "Matheesha Pathirana",
+    "country": "Sri Lanka",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "manan-vohra",
+    "name": "Manan Vohra",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "manish-pandey",
+    "name": "Manish Pandey",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "manvinder-bisla",
+    "name": "Manvinder Bisla",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "marcus-stoinis",
+    "name": "Marcus Stoinis",
+    "country": "Australia",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "mark-wood",
+    "name": "Mark Wood",
+    "country": "England",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "marnus-labuschagne",
+    "name": "Marnus Labuschagne",
+    "country": "Australia",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "matheesha-pathirana",
+    "name": "Matheesha Pathirana",
+    "country": "Sri Lanka",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "mayank-agarwal",
+    "name": "Mayank Agarwal",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "mayank-yadav",
+    "name": "Mayank Yadav",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "michael-hussey",
+    "name": "Michael Hussey",
+    "country": "Australia",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "mitchell-johson",
+    "name": "Mitchell Johnson",
+    "country": "Australia",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "mitchell-marsh",
+    "name": "Mitchell Marsh",
+    "country": "Australia",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "mitchell-santner",
+    "name": "Mitchell Santner",
+    "country": "New Zealand",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "mitchell-starc",
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "mohammad-nabi",
+    "name": "Mohammad Nabi",
+    "country": "Afghanistan",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "mohammed-shami",
+    "name": "Mohammed Shami",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "mohammed-siraj",
+    "name": "Mohammed Siraj",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "moises-henriques",
+    "name": "Moises Henriques",
+    "country": "Australia",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "moein-ali",
+    "name": "Moeen Ali",
+    "country": "England",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "mandeep-singh",
+    "name": "Mandeep Singh",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "muralix-vijay",
+    "name": "Murali Vijay",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "muttiah-muralitharan",
+    "name": "Muttiah Muralitharan",
+    "country": "Sri Lanka",
+    "role": "spin-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "naman-ojha",
+    "name": "Naman Ojha",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "navdeep-saini",
+    "name": "Navdeep Saini",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "nehal-wadhera",
+    "name": "Nehal Wadhera",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "nicholas-pooran",
+    "name": "Nicholas Pooran",
+    "country": "West Indies",
+    "role": "wicket-keeper",
+    "isInternational": true
+  },
+  {
+    "id": "nitish-rana",
+    "name": "Nitish Rana",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "nitish-kumar-reddy",
+    "name": "Nitish Kumar Reddy",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "nuwan-thushara",
+    "name": "Nuwan Thushara",
+    "country": "Sri Lanka",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "ocean-thomas",
+    "name": "Oshane Thomas",
+    "country": "West Indies",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "ovais-shah",
+    "name": "Ovais Shah",
+    "country": "England",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "parthiv-patel",
+    "name": "Parthiv Patel",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "pat-cummins",
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "pawan-negi",
+    "name": "Pawan Negi",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "piyush-chawla",
+    "name": "Piyush Chawla",
+    "country": "India",
+    "role": "spin-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "prabhsimran-singh",
+    "name": "Prabhsimran Singh",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "pradeep-sangwan",
+    "name": "Pradeep Sangwan",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "prasidh-krishna",
+    "name": "Prasidh Krishna",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "pravin-tambe",
+    "name": "Pravin Tambe",
+    "country": "India",
+    "role": "spin-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "prithvi-shaw",
+    "name": "Prithvi Shaw",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "quinton-de-kock",
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "wicket-keeper",
+    "isInternational": true
+  },
+  {
+    "id": "rahul-chahar",
+    "name": "Rahul Chahar",
+    "country": "India",
+    "role": "spin-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "rahul-dravid",
+    "name": "Rahul Dravid",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "rahul-tewatia",
+    "name": "Rahul Tewatia",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "rahul-tripathi",
+    "name": "Rahul Tripathi",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "rajat-patidar",
+    "name": "Rajat Patidar",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "ramandeep-singh",
+    "name": "Ramandeep Singh",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "rashid-khan",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "spin-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "ravi-bishnoi",
+    "name": "Ravi Bishnoi",
+    "country": "India",
+    "role": "spin-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "ravichandran-ashwin",
+    "name": "Ravichandran Ashwin",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "ravindra-jadeja",
+    "name": "Ravindra Jadeja",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "rinku-singh",
+    "name": "Rinku Singh",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "rishabh-pant",
+    "name": "Rishabh Pant",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "rohit-sharma",
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "rovman-powell",
+    "name": "Rovman Powell",
+    "country": "West Indies",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "ruturaj-gaikwad",
+    "name": "Ruturaj Gaikwad",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "ryan-ten-doeschate",
+    "name": "Ryan ten Doeschate",
+    "country": "Netherlands",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "s-sreesanth",
+    "name": "S. Sreesanth",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "sai-kishore",
+    "name": "R. Sai Kishore",
+    "country": "India",
+    "role": "spin-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "sam-curran",
+    "name": "Sam Curran",
+    "country": "England",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "samson-sanju",
+    "name": "Sanju Samson",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "sameer-rizvi",
+    "name": "Sameer Rizvi",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "sandeep-sharma",
+    "name": "Sandeep Sharma",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "sanju-samson",
+    "name": "Sanju Samson",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "santan-kumar",
+    "name": "Santan Kumar",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "sarfaraz-khan",
+    "name": "Sarfaraz Khan",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "sachin-tendulkar",
+    "name": "Sachin Tendulkar",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "shahbaz-ahmed",
+    "name": "Shahbaz Ahmed",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "shakib-al-hasan",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "shane-watson",
+    "name": "Shane Watson",
+    "country": "Australia",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "shane-warne",
+    "name": "Shane Warne",
+    "country": "Australia",
+    "role": "spin-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "shardul-thakur",
+    "name": "Shardul Thakur",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "shashank-singh",
+    "name": "Shashank Singh",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "shikhar-dhawan",
+    "name": "Shikhar Dhawan",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "shimron-hetmyer",
+    "name": "Shimron Hetmyer",
+    "country": "West Indies",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "shivam-dube",
+    "name": "Shivam Dube",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "shivam-mavi",
+    "name": "Shivam Mavi",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "shreyas-gopal",
+    "name": "Shreyas Gopal",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "shreyas-iyer",
+    "name": "Shreyas Iyer",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "shubman-gill",
+    "name": "Shubman Gill",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "sourav-ganguly",
+    "name": "Sourav Ganguly",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "steve-smith",
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "sunil-narine",
+    "name": "Sunil Narine",
+    "country": "West Indies",
+    "role": "all-rounder",
+    "isInternational": true
+  },
+  {
+    "id": "suresh-raina",
+    "name": "Suresh Raina",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "suryakumar-yadav",
+    "name": "Suryakumar Yadav",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "suyash-sharma",
+    "name": "Suyash Sharma",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "tabraiz-shamsi",
+    "name": "Tabraiz Shamsi",
+    "country": "South Africa",
+    "role": "spin-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "thangarasu-natarajan",
+    "name": "T. Natarajan",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "tilak-varma",
+    "name": "Tilak Varma",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "tim-david",
+    "name": "Tim David",
+    "country": "Australia",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "tim-southee",
+    "name": "Tim Southee",
+    "country": "New Zealand",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "trent-boult",
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "fast-bowler",
+    "isInternational": true
+  },
+  {
+    "id": "tristan-stubbs",
+    "name": "Tristan Stubbs",
+    "country": "South Africa",
+    "role": "wicket-keeper",
+    "isInternational": true
+  },
+  {
+    "id": "tushar-deshpande",
+    "name": "Tushar Deshpande",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "umesh-yadav",
+    "name": "Umesh Yadav",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "unmukt-chand",
+    "name": "Unmukt Chand",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "upendra-yadav",
+    "name": "Upendra Yadav",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "usman-khawaja",
+    "name": "Usman Khawaja",
+    "country": "Australia",
+    "role": "batsman",
+    "isInternational": true
+  },
+  {
+    "id": "varun-chakaravarthy",
+    "name": "Varun Chakaravarthy",
+    "country": "India",
+    "role": "spin-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "venkatesh-iyer",
+    "name": "Venkatesh Iyer",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "virender-sehwag",
+    "name": "Virender Sehwag",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "virat-kohli",
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "vishnu-vinod",
+    "name": "Vishnu Vinod",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "vvs-laxman",
+    "name": "V.V.S. Laxman",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "washington-sundar",
+    "name": "Washington Sundar",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "wasim-jaffer",
+    "name": "Wasim Jaffer",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "wriddhiman-saha",
+    "name": "Wriddhiman Saha",
+    "country": "India",
+    "role": "wicket-keeper",
+    "isInternational": false
+  },
+  {
+    "id": "yash-dayal",
+    "name": "Yash Dayal",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "yashasvi-jaiswal",
+    "name": "Yashasvi Jaiswal",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "yash-dhull",
+    "name": "Yash Dhull",
+    "country": "India",
+    "role": "batsman",
+    "isInternational": false
+  },
+  {
+    "id": "yuvraj-singh",
+    "name": "Yuvraj Singh",
+    "country": "India",
+    "role": "all-rounder",
+    "isInternational": false
+  },
+  {
+    "id": "yuzvendra-chahal",
+    "name": "Yuzvendra Chahal",
+    "country": "India",
+    "role": "spin-bowler",
+    "isInternational": false
+  },
+  {
+    "id": "zaheer-khan",
+    "name": "Zaheer Khan",
+    "country": "India",
+    "role": "fast-bowler",
+    "isInternational": false
+  }
+]

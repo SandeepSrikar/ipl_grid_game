@@ -1,0 +1,302 @@
+[
+  {
+    "playerId": "ms-dhoni",
+    "teams": ["CSK", "RPS"]
+  },
+  {
+    "playerId": "rohit-sharma",
+    "teams": ["MI"]
+  },
+  {
+    "playerId": "virat-kohli",
+    "teams": ["RCB"]
+  },
+  {
+    "playerId": "gautam-gambhir",
+    "teams": ["DC", "KKR"]
+  },
+  {
+    "playerId": "shreyas-iyer",
+    "teams": ["DC", "KKR", "PBKS"]
+  },
+  {
+    "playerId": "david-warner",
+    "teams": ["DC", "SRH"]
+  },
+  {
+    "playerId": "adam-gilchrist",
+    "teams": ["DCH", "KXIP"]
+  },
+  {
+    "playerId": "rishabh-pant",
+    "teams": ["DC", "LSG"]
+  },
+  {
+    "playerId": "hardik-pandya",
+    "teams": ["GT", "MI"]
+  },
+  {
+    "playerId": "sanju-samson",
+    "teams": ["RR"]
+  },
+  {
+    "playerId": "kl-rahul",
+    "teams": ["PBKS", "LSG"]
+  },
+  {
+    "playerId": "shane-warne",
+    "teams": ["RR"]
+  },
+  {
+    "playerId": "virender-sehwag",
+    "teams": ["DC", "KXIP"]
+  },
+  {
+    "playerId": "ajinkya-rahane",
+    "teams": ["KKR", "RR", "RPS"]
+  },
+  {
+    "playerId": "sachin-tendulkar",
+    "teams": ["MI"]
+  },
+  {
+    "playerId": "rahul-dravid",
+    "teams": ["RR", "RCB"]
+  },
+  {
+    "playerId": "kumar-sangakkara",
+    "teams": ["KXIP", "DCH", "SRH"]
+  },
+  {
+    "playerId": "kane-williamson",
+    "teams": ["SRH"]
+  },
+  {
+    "playerId": "faf-du-plessis",
+    "teams": ["DC", "RCB"]
+  },
+  {
+    "playerId": "dinesh-karthik",
+    "teams": ["DC", "KKR"]
+  },
+  {
+    "playerId": "shubman-gill",
+    "teams": ["GT"]
+  },
+  {
+    "playerId": "steven-smith",
+    "teams": ["PWI", "RPS", "RR"]
+  },
+  {
+    "playerId": "yuvraj-singh",
+    "teams": ["KXIP", "PWI"]
+  },
+  {
+    "playerId": "sourav-ganguly",
+    "teams": ["KKR", "PWI"]
+  },
+  {
+    "playerId": "pat-cummins",
+    "teams": ["SRH"]
+  },
+  {
+    "playerId": "suresh-raina",
+    "teams": ["CSK", "GL"]
+  },
+  {
+    "playerId": "ruturaj-gaikwad",
+    "teams": ["CSK"]
+  },
+  {
+    "playerId": "george-bailey",
+    "teams": ["KXIP"]
+  },
+  {
+    "playerId": "mahela-jayawardene",
+    "teams": ["KXIP", "KTK", "DC"]
+  },
+  {
+    "playerId": "rajat-patidar",
+    "teams": ["RCB"]
+  },
+  {
+    "playerId": "ravichandran-ashwin",
+    "teams": ["KXIP"]
+  },
+  {
+    "playerId": "axar-patel",
+    "teams": ["DC"]
+  },
+  {
+    "playerId": "shikhar-dhawan",
+    "teams": ["SRH", "PBKS"]
+  },
+  {
+    "playerId": "anil-kumble",
+    "teams": ["RCB"]
+  },
+  {
+    "playerId": "eoin-morgan",
+    "teams": ["KKR"]
+  },
+  {
+    "playerId": "shane-watson",
+    "teams": ["RR", "RCB"]
+  },
+  {
+    "playerId": "zaheer-khan",
+    "teams": ["DC"]
+  },
+  {
+    "playerId": "daniel-vettori",
+    "teams": ["RCB"]
+  },
+  {
+    "playerId": "riyan-parag",
+    "teams": ["RR"]
+  },
+  {
+    "playerId": "harbhajan-singh",
+    "teams": ["MI"]
+  },
+  {
+    "playerId": "kevin-pietersen",
+    "teams": ["DC", "RCB"]
+  },
+  {
+    "playerId": "jp-duminy",
+    "teams": ["DC"]
+  },
+  {
+    "playerId": "mayank-agarwal",
+    "teams": ["PBKS"]
+  },
+  {
+    "playerId": "glenn-maxwell",
+    "teams": ["KXIP"]
+  },
+  {
+    "playerId": "nitish-rana",
+    "teams": ["KKR"]
+  },
+  {
+    "playerId": "brendon-mccullum",
+    "teams": ["KKR", "GL"]
+  },
+  {
+    "playerId": "aiden-markram",
+    "teams": ["SRH"]
+  },
+  {
+    "playerId": "cameron-white",
+    "teams": ["DCH", "SRH"]
+  },
+  {
+    "playerId": "david-hussey",
+    "teams": ["KXIP"]
+  },
+  {
+    "playerId": "sam-curran",
+    "teams": ["PBKS"]
+  },
+  {
+    "playerId": "aaron-finch",
+    "teams": ["PWI"]
+  },
+  {
+    "playerId": "murali-vijay",
+    "teams": ["KXIP"]
+  },
+  {
+    "playerId": "bhuvneshwar-kumar",
+    "teams": ["SRH"]
+  },
+  {
+    "playerId": "ravindra-jadeja",
+    "teams": ["CSK"]
+  },
+  {
+    "playerId": "ishan-kishan",
+    "teams": ["SRH"]
+  },
+  {
+    "playerId": "kieron-pollard",
+    "teams": ["MI"]
+  },
+  {
+    "playerId": "krunal-pandya",
+    "teams": ["LSG"]
+  },
+  {
+    "playerId": "david-miller",
+    "teams": ["KXIP"]
+  },
+  {
+    "playerId": "vvs-laxman",
+    "teams": ["DCH"]
+  },
+  {
+    "playerId": "ricky-ponting",
+    "teams": ["MI"]
+  },
+  {
+    "playerId": "suryakumar-yadav",
+    "teams": ["MI"]
+  },
+  {
+    "playerId": "angelo-mathews",
+    "teams": ["PWI"]
+  },
+  {
+    "playerId": "shaun-pollock",
+    "teams": ["MI"]
+  },
+  {
+    "playerId": "jitesh-sharma",
+    "teams": ["PBKS", "RCB"]
+  },
+  {
+    "playerId": "darren-sammy",
+    "teams": ["SRH"]
+  },
+  {
+    "playerId": "karun-nair",
+    "teams": ["DC"]
+  },
+  {
+    "playerId": "rashid-khan",
+    "teams": ["GT"]
+  },
+  {
+    "playerId": "james-hopes",
+    "teams": ["DC"]
+  },
+  {
+    "playerId": "yashasvi-jaiswal",
+    "teams": ["RR"]
+  },
+  {
+    "playerId": "jasprit-bumrah",
+    "teams": ["MI"]
+  },
+  {
+    "playerId": "nicholas-pooran",
+    "teams": ["LSG"]
+  },
+  {
+    "playerId": "ross-taylor",
+    "teams": ["PWI"]
+  },
+  {
+    "playerId": "dwayne-bravo",
+    "teams": ["MI"]
+  },
+  {
+    "playerId": "manish-pandey",
+    "teams": ["SRH"]
+  },
+  {
+    "playerId": "parthiv-patel",
+    "teams": ["KTK"]
+  }
+]

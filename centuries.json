@@ -1,0 +1,436 @@
+[
+  {
+    "playerId": "brendon-mccullum",
+    "centuries": [
+      { "year": 2008, "teamId": "KKR" },
+      { "year": 2015, "teamId": "CSK" }
+    ]
+  },
+  {
+    "playerId": "michael-hussey",
+    "centuries": [
+      { "year": 2008, "teamId": "CSK" }
+    ]
+  },
+  {
+    "playerId": "andrew-symonds",
+    "centuries": [
+      { "year": 2008, "teamId": "DCH" }
+    ]
+  },
+  {
+    "playerId": "adam-gilchrist",
+    "centuries": [
+      { "year": 2008, "teamId": "DCH" },
+      { "year": 2011, "teamId": "KXIP" }
+    ]
+  },
+  {
+    "playerId": "sanath-jayasuriya",
+    "centuries": [
+      { "year": 2008, "teamId": "MI" }
+    ]
+  },
+  {
+    "playerId": "shaun-marsh",
+    "centuries": [
+      { "year": 2008, "teamId": "KXIP" }
+    ]
+  },
+  {
+    "playerId": "ab-de-villiers",
+    "centuries": [
+      { "year": 2009, "teamId": "DD" },
+      { "year": 2015, "teamId": "RCB" },
+      { "year": 2016, "teamId": "RCB" }
+    ]
+  },
+  {
+    "playerId": "manish-pandey",
+    "centuries": [
+      { "year": 2009, "teamId": "RCB" }
+    ]
+  },
+  {
+    "playerId": "yusuf-pathan",
+    "centuries": [
+      { "year": 2010, "teamId": "RR" }
+    ]
+  },
+  {
+    "playerId": "david-warner",
+    "centuries": [
+      { "year": 2010, "teamId": "DD" },
+      { "year": 2012, "teamId": "DD" },
+      { "year": 2017, "teamId": "SRH" },
+      { "year": 2019, "teamId": "SRH" }
+    ]
+  },
+  {
+    "playerId": "murali-vijay",
+    "centuries": [
+      { "year": 2010, "teamId": "CSK" },
+      { "year": 2012, "teamId": "CSK" }
+    ]
+  },
+  {
+    "playerId": "mahela-jayawardene",
+    "centuries": [
+      { "year": 2010, "teamId": "KXIP" }
+    ]
+  },
+  {
+    "playerId": "paul-valthaty",
+    "centuries": [
+      { "year": 2011, "teamId": "KXIP" }
+    ]
+  },
+  {
+    "playerId": "sachin-tendulkar",
+    "centuries": [
+      { "year": 2011, "teamId": "MI" }
+    ]
+  },
+  {
+    "playerId": "chris-gayle",
+    "centuries": [
+      { "year": 2011, "teamId": "RCB" },
+      { "year": 2011, "teamId": "RCB" },
+      { "year": 2012, "teamId": "RCB" },
+      { "year": 2013, "teamId": "RCB" },
+      { "year": 2015, "teamId": "RCB" },
+      { "year": 2018, "teamId": "KXIP" }
+    ]
+  },
+  {
+    "playerId": "virender-sehwag",
+    "centuries": [
+      { "year": 2011, "teamId": "DD" },
+      { "year": 2014, "teamId": "KXIP" }
+    ]
+  },
+  {
+    "playerId": "ajinkya-rahane",
+    "centuries": [
+      { "year": 2012, "teamId": "RR" },
+      { "year": 2019, "teamId": "RR" }
+    ]
+  },
+  {
+    "playerId": "kevin-pietersen",
+    "centuries": [
+      { "year": 2012, "teamId": "DD" }
+    ]
+  },
+  {
+    "playerId": "rohit-sharma",
+    "centuries": [
+      { "year": 2012, "teamId": "MI" },
+      { "year": 2024, "teamId": "MI" }
+    ]
+  },
+  {
+    "playerId": "shane-watson",
+    "centuries": [
+      { "year": 2013, "teamId": "RR" },
+      { "year": 2015, "teamId": "RR" },
+      { "year": 2018, "teamId": "CSK" },
+      { "year": 2018, "teamId": "CSK" }
+    ]
+  },
+  {
+    "playerId": "suresh-raina",
+    "centuries": [
+      { "year": 2013, "teamId": "CSK" }
+    ]
+  },
+  {
+    "playerId": "david-miller",
+    "centuries": [
+      { "year": 2013, "teamId": "KXIP" }
+    ]
+  },
+  {
+    "playerId": "lendl-simmons",
+    "centuries": [
+      { "year": 2014, "teamId": "MI" }
+    ]
+  },
+  {
+    "playerId": "wriddhiman-saha",
+    "centuries": [
+      { "year": 2014, "teamId": "KXIP" }
+    ]
+  },
+  {
+    "playerId": "virat-kohli",
+    "centuries": [
+      { "year": 2016, "teamId": "RCB" },
+      { "year": 2016, "teamId": "RCB" },
+      { "year": 2016, "teamId": "RCB" },
+      { "year": 2016, "teamId": "RCB" },
+      { "year": 2019, "teamId": "RCB" },
+      { "year": 2023, "teamId": "RCB" },
+      { "year": 2023, "teamId": "RCB" },
+      { "year": 2024, "teamId": "RCB" },
+      { "year": 2026, "teamId": "RCB" }
+    ]
+  },
+  {
+    "playerId": "steve-smith",
+    "centuries": [
+      { "year": 2016, "teamId": "RPS" }
+    ]
+  },
+  {
+    "playerId": "quinton-de-kock",
+    "centuries": [
+      { "year": 2016, "teamId": "DD" },
+      { "year": 2022, "teamId": "LSG" },
+      { "year": 2026, "teamId": "MI" }
+    ]
+  },
+  {
+    "playerId": "sanju-samson",
+    "centuries": [
+      { "year": 2017, "teamId": "DD" },
+      { "year": 2019, "teamId": "RR" },
+      { "year": 2021, "teamId": "RR" },
+      { "year": 2026, "teamId": "CSK" },
+      { "year": 2026, "teamId": "CSK" }
+    ]
+  },
+  {
+    "playerId": "hashim-amla",
+    "centuries": [
+      { "year": 2017, "teamId": "KXIP" },
+      { "year": 2017, "teamId": "KXIP" }
+    ]
+  },
+  {
+    "playerId": "ben-stokes",
+    "centuries": [
+      { "year": 2017, "teamId": "RPS" },
+      { "year": 2020, "teamId": "RR" }
+    ]
+  },
+  {
+    "playerId": "rishabh-pant",
+    "centuries": [
+      { "year": 2018, "teamId": "DD" },
+      { "year": 2025, "teamId": "LSG" }
+    ]
+  },
+  {
+    "playerId": "ambati-rayudu",
+    "centuries": [
+      { "year": 2018, "teamId": "CSK" }
+    ]
+  },
+  {
+    "playerId": "jonny-bairstow",
+    "centuries": [
+      { "year": 2019, "teamId": "SRH" },
+      { "year": 2024, "teamId": "PBKS" }
+    ]
+  },
+  {
+    "playerId": "kl-rahul",
+    "centuries": [
+      { "year": 2019, "teamId": "KXIP" },
+      { "year": 2020, "teamId": "KXIP" },
+      { "year": 2022, "teamId": "LSG" },
+      { "year": 2022, "teamId": "LSG" },
+      { "year": 2025, "teamId": "DC" },
+      { "year": 2026, "teamId": "DC" }
+    ]
+  },
+  {
+    "playerId": "mayank-agarwal",
+    "centuries": [
+      { "year": 2020, "teamId": "KXIP" }
+    ]
+  },
+  {
+    "playerId": "shikhar-dhawan",
+    "centuries": [
+      { "year": 2020, "teamId": "DC" },
+      { "year": 2020, "teamId": "DC" }
+    ]
+  },
+  {
+    "playerId": "devdutt-padikkal",
+    "centuries": [
+      { "year": 2021, "teamId": "RCB" }
+    ]
+  },
+  {
+    "playerId": "jos-buttler",
+    "centuries": [
+      { "year": 2021, "teamId": "RR" },
+      { "year": 2022, "teamId": "RR" },
+      { "year": 2022, "teamId": "RR" },
+      { "year": 2022, "teamId": "RR" },
+      { "year": 2022, "teamId": "RR" },
+      { "year": 2024, "teamId": "RR" },
+      { "year": 2024, "teamId": "RR" }
+    ]
+  },
+  {
+    "playerId": "ruturaj-gaikwad",
+    "centuries": [
+      { "year": 2021, "teamId": "CSK" },
+      { "year": 2024, "teamId": "CSK" }
+    ]
+  },
+  {
+    "playerId": "rajat-patidar",
+    "centuries": [
+      { "year": 2022, "teamId": "RCB" }
+    ]
+  },
+  {
+    "playerId": "harry-brook",
+    "centuries": [
+      { "year": 2023, "teamId": "SRH" }
+    ]
+  },
+  {
+    "playerId": "venkatesh-iyer",
+    "centuries": [
+      { "year": 2023, "teamId": "KKR" }
+    ]
+  },
+  {
+    "playerId": "yashasvi-jaiswal",
+    "centuries": [
+      { "year": 2023, "teamId": "RR" },
+      { "year": 2024, "teamId": "RR" }
+    ]
+  },
+  {
+    "playerId": "suryakumar-yadav",
+    "centuries": [
+      { "year": 2023, "teamId": "MI" },
+      { "year": 2024, "teamId": "MI" }
+    ]
+  },
+  {
+    "playerId": "prabhsimran-singh",
+    "centuries": [
+      { "year": 2023, "teamId": "PBKS" }
+    ]
+  },
+  {
+    "playerId": "shubman-gill",
+    "centuries": [
+      { "year": 2023, "teamId": "GT" },
+      { "year": 2023, "teamId": "GT" },
+      { "year": 2024, "teamId": "GT" },
+      { "year": 2025, "teamId": "GT" },
+      { "year": 2026, "teamId": "GT" }
+    ]
+  },
+  {
+    "playerId": "heinrich-klaasen",
+    "centuries": [
+      { "year": 2023, "teamId": "SRH" },
+      { "year": 2025, "teamId": "SRH" }
+    ]
+  },
+  {
+    "playerId": "cameron-green",
+    "centuries": [
+      { "year": 2023, "teamId": "MI" }
+    ]
+  },
+  {
+    "playerId": "travis-head",
+    "centuries": [
+      { "year": 2024, "teamId": "SRH" }
+    ]
+  },
+  {
+    "playerId": "sunil-narine",
+    "centuries": [
+      { "year": 2024, "teamId": "KKR" }
+    ]
+  },
+  {
+    "playerId": "marcus-stoinis",
+    "centuries": [
+      { "year": 2024, "teamId": "LSG" }
+    ]
+  },
+  {
+    "playerId": "will-jacks",
+    "centuries": [
+      { "year": 2024, "teamId": "RCB" }
+    ]
+  },
+  {
+    "playerId": "sai-sudharsan",
+    "centuries": [
+      { "year": 2024, "teamId": "GT" },
+      { "year": 2025, "teamId": "GT" },
+      { "year": 2026, "teamId": "GT" }
+    ]
+  },
+  {
+    "playerId": "ishan-kishan",
+    "centuries": [
+      { "year": 2025, "teamId": "SRH" }
+    ]
+  },
+  {
+    "playerId": "priyansh-arya",
+    "centuries": [
+      { "year": 2025, "teamId": "PBKS" }
+    ]
+  },
+  {
+    "playerId": "abhishek-sharma",
+    "centuries": [
+      { "year": 2025, "teamId": "SRH" },
+      { "year": 2026, "teamId": "SRH" }
+    ]
+  },
+  {
+    "playerId": "vaibhav-sooryavanshi",
+    "centuries": [
+      { "year": 2025, "teamId": "RR" },
+      { "year": 2026, "teamId": "RR" }
+    ]
+  },
+  {
+    "playerId": "mitchell-marsh",
+    "centuries": [
+      { "year": 2025, "teamId": "LSG" },
+      { "year": 2026, "teamId": "LSG" }
+    ]
+  },
+  {
+    "playerId": "ryan-rickelton",
+    "centuries": [
+      { "year": 2026, "teamId": "MI" }
+    ]
+  },
+  {
+    "playerId": "cooper-connolly",
+    "centuries": [
+      { "year": 2026, "teamId": "PBKS" }
+    ]
+  },
+  {
+    "playerId": "finn-allen",
+    "centuries": [
+      { "year": 2026, "teamId": "KKR" }
+    ]
+  },
+  {
+    "playerId": "shreyas-iyer",
+    "centuries": [
+      { "year": 2026, "teamId": "PBKS" }
+    ]
+  }
+]
