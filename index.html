@@ -1,0 +1,176 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPL Cricket Challenge</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./script.js" defer></script>
+</head>
+<body>
+    <main class="app">
+        <header class="app-header">
+            <div>
+                <p class="eyebrow">CRICKET CHALLENGE</p>
+                <h1>IPL Cricket Challenge</h1>
+                <p class="subtitle">
+                    Choose your game and test your IPL knowledge.
+                </p>
+            </div>
+            <button id="new-round-btn" class="secondary-button">
+                New Round
+            </button>
+        </header>
+
+        <nav class="game-tabs" aria-label="Choose game">
+            <button class="game-tab active" id="grid-tab" type="button" aria-selected="true">Grid</button>
+            <button class="game-tab" id="guess-tab" type="button" aria-selected="false">Guess Player</button>
+        </nav>
+
+        <div id="grid-view">
+        <section class="stats" aria-label="Game statistics">
+            <div class="stat-card">
+                <span class="stat-label">Correct</span>
+                <strong id="correct-count">0 / 9</strong>
+            </div>
+
+            <div class="stat-card">
+                <span class="stat-label">Mistakes</span>
+                <strong id="mistake-count">0 / 5</strong>
+            </div>
+
+            <div class="stat-card lives-card">
+                <span class="stat-label">Lives remaining</span>
+                <strong id="lives-count">5</strong>
+            </div>
+        </section>
+
+        <section class="game-panel">
+            <div class="grid-layout">
+                <div class="grid-corner" aria-hidden="true">
+                    <span>ROW</span>
+                    <span>×</span>
+                    <span>COLUMN</span>
+                </div>
+
+                <div id="column-clues" class="column-clues"
+                     aria-label="Column clues"></div>
+
+                <div id="row-clues" class="row-clues"
+                     aria-label="Row clues"></div>
+
+                <div id="answer-grid" class="answer-grid"
+                     aria-label="Answer grid"></div>
+            </div>
+
+            <p class="grid-instruction">
+                Select an unsolved cell, enter a player name, and submit.
+            </p>
+        </section>
+
+        <section class="answer-panel">
+            <h2>Your Answer</h2>
+
+            <div class="answer-controls">
+                <div class="autocomplete-container">
+                    <label for="player-input">Player name</label>
+                    <input
+                        id="player-input"
+                        type="text"
+                        placeholder="Start typing a player name..."
+                        autocomplete="off"
+                        disabled
+                    >
+                    <div
+                        id="player-dropdown"
+                        class="player-dropdown"
+                        role="listbox"
+                        aria-label="Player suggestions"
+                        hidden
+                    ></div>
+                </div>
+
+                <button id="submit-answer-btn" class="primary-button"
+                        disabled>
+                    Submit Answer
+                </button>
+            </div>
+
+            <p id="feedback" class="feedback" role="status"
+               aria-live="polite">
+                Loading players...
+            </p>
+        </section>
+
+        <section id="completion-panel" class="completion-panel" hidden>
+            <h2 id="completion-title">Round complete!</h2>
+            <p id="completion-message"></p>
+            <button id="play-again-btn" class="primary-button">
+                Play Again
+            </button>
+        </section>
+
+        <footer class="app-footer">
+            <p>
+                Five mistakes end the round. Correct cells are locked.
+                No hints. Play smart!
+            </p>
+        </footer>
+        </div>
+
+        <section id="guess-view" class="guess-view" hidden>
+            <div class="guess-header">
+                <div>
+                    <p class="eyebrow">CAREER TRAIL</p>
+                    <h2>Guess the IPL Player</h2>
+                    <p class="subtitle">Identify the player from their IPL team history. You have five guesses.</p>
+                </div>
+                <button id="guess-new-round-btn" class="secondary-button" type="button">New Player</button>
+            </div>
+
+            <div class="guess-stats">
+                <div class="stat-card">
+                    <span class="stat-label">Guesses used</span>
+                    <strong id="guess-count">0 / 5</strong>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-label">Teams revealed</span>
+                    <strong id="revealed-count">2</strong>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-label">Teams in career</span>
+                    <strong id="career-count">—</strong>
+                </div>
+            </div>
+
+            <div class="game-panel guess-panel">
+                <h3>Which player played for these teams?</h3>
+                <p class="guess-hint">Two teams are shown at the start. Each incorrect guess reveals one more team.</p>
+                <div id="career-teams" class="career-teams" aria-label="Revealed IPL teams"></div>
+                <p id="guess-feedback" class="feedback" role="status" aria-live="polite">Loading players...</p>
+            </div>
+
+            <section class="answer-panel guess-answer-panel">
+                <h2>Your Guess</h2>
+                <div class="answer-controls">
+                    <div class="autocomplete-container">
+                        <label for="guess-player-input">Player name</label>
+                        <input id="guess-player-input" type="text" placeholder="Start typing a player name..." autocomplete="off" disabled>
+                        <div id="guess-player-dropdown" class="player-dropdown" role="listbox" aria-label="Player suggestions" hidden></div>
+                    </div>
+                    <button id="guess-submit-btn" class="primary-button" type="button" disabled>Submit Guess</button>
+                </div>
+            </section>
+
+            <section id="guess-result-panel" class="completion-panel" hidden>
+                <h2 id="guess-result-title">Round complete!</h2>
+                <p id="guess-result-message"></p>
+                <div id="full-career-teams" class="career-teams full-career-teams"></div>
+                <button id="guess-play-again-btn" class="primary-button" type="button">Play Again</button>
+            </section>
+            <footer class="app-footer"><p>Repeated guesses are blocked. The answer and full career are revealed when you win or use all five guesses.</p></footer>
+        </section>
+    </main>
+</body>
+</html>
